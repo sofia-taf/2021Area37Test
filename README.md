@@ -30,4 +30,5 @@ that have already been run.
 
 See also:
 
-[SOFIA-TAF tutorial](https://github.com/sofia-taf/doc/blob/main/taf_tutorial.md)
+[SOFIA-TAF
+tutorial](https://github.com/sofia-taf/doc/blob/main/sofia_taf_tutorial.md)
